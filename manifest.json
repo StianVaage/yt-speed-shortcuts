@@ -3,8 +3,8 @@
   "name": "YouTube Speed Control",
   "version": "1.0.0",
   "description": "Control YouTube playback speed with custom keyboard shortcuts. Easy-to-use popup interface for setting your preferred keys.",
-  "author": "Your Name",
-  "homepage_url": "https://github.com/yourusername/yt-controls",
+  "author": "gaffel",
+  "homepage_url": "https://github.com/stianvaage/yt-speed-shortcuts",
   "permissions": ["storage"],
   "icons": {
     "16": "assets/icon16.png",
